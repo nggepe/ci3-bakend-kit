@@ -1,0 +1,3 @@
+
+GET http://localhost/fugcash-backend/group/get
+jwt:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IjEi.xaf2oIjF9RvKP0G1xnxrYctjrIVMA_iZm7NkOG3MnKU

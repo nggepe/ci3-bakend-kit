@@ -1,0 +1,9 @@
+POST http://localhost/fugcash-backend/auth/login
+Content-Type: application/json
+
+{
+  "username":"gepe",
+  "password": "admin123"
+}
+
+###
